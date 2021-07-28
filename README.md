@@ -2,11 +2,12 @@
 <h1>i3 wm</h1>
 <h1>Install</h1>
 <ul>
-<li>feh</li>
-<li>rofi</li>
-<li>sudo dpkg -i playerctl-2.3.1_amd64.deb </li>
-<li>thunar</li>
-<li>lxappearance</li>
+  <li>feh</li>
+  <li>rofi</li>
+  <li>sudo dpkg -i playerctl-2.3.1_amd64.deb </li>
+  <li>thunar</li>
+  <li>lxappearance</li>
+  <li>i3blocks</li>
 </ul>
 <br/>
 <h1>Reload Xresources</h1>
