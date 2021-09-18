@@ -27,8 +27,8 @@ VBoxManage modifymedium"/home/wenkang/VirtualBox VMs/Windows 7/Windows 7.vdi" --
   <li>sudo apt-get install clamav</li>
   <li>freshclam</li>
   <li>clamscan -r -i DIRECTORY</li>
+  <li>clamscan -r --remove /</li>
 </ul>
-<br/>
 <h1>onedrive</h1>
 <ul>
   <li>touch sync_list(selective sync)</li>
