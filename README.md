@@ -21,3 +21,17 @@ touch ~/.config/compton.conf
 <br/>
 <h1>Modify VM disk space</h1>
 VBoxManage modifymedium"/home/wenkang/VirtualBox VMs/Windows 7/Windows 7.vdi" --resize 60999
+<br/>
+<h1>Scan Virus</h1>
+<ul>
+  <li>sudo apt-get install clamav</li>
+  <li>freshclam</li>
+  <li>clamscan -r -i DIRECTORY</li>
+</ul>
+<br/>
+<h1>onedrive</h1>
+<ul>
+  <li>touch sync_list(selective sync)</li>
+  <li>onedrive --synchronize --resync</li>
+  <li>onedrive --monitor</li>
+</ul>
