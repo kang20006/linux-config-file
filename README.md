@@ -9,6 +9,7 @@
   <li>lxappearance</li>
   <li>i3blocks</li>
   <li>i3 gaps</li>
+  <li>ranger</li>
 </ul>
 <br/>
 <h1>Reload Xresources</h1>
